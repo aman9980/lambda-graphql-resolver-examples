@@ -73,7 +73,7 @@
 						"Arn"
 					]
 				},
-				"Runtime": "nodejs8.10",
+				"Runtime": "nodejs16.x",
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "gql-lambda-resolvers-local-20190609130720-deployment",
